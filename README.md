@@ -25,7 +25,7 @@
 
 <!-- PROJECT LOGO -->
 
-<h3 align="center">Tendon-Actuations</h3>
+<h3 align="center">Bat-Bot Tendon Actuations</h3>
 
   <p align="center">
     This repository illustrates a section of code that was used to control the tendon-actuation motors that were used to control the motion of objects like ears, and feet of bats. 
