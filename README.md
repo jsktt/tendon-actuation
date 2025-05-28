@@ -56,6 +56,13 @@ The code for this repository was used to rotate small motors that were used in a
 
 ### Images
 
+Initial prototype of the motor controllers: 
+![alt text][front-pid]
+![alt text][back-pid]
+
+Final prototype used:
+![alt text][final-pid]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,4 +101,6 @@ Project Link: [https://github.com/jsktt/main/tendon-actuation-master/src](https:
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
+[back-pid]: https://github.com/jsktt/tendon-actuation/blob/main/initial_prototype_back.jpeg
+[front-pid]: https://github.com/jsktt/tendon-actuation/blob/main/initial_prototype_front.jpeg
+[final-pid]: https://github.com/jsktt/tendon-actuation/blob/main/final_prototype_pid_motors.jpeg
