@@ -57,10 +57,14 @@ The code for this repository was used to rotate small motors that were used in a
 ### Images
 
 Initial prototype of the motor controllers: 
+
+
 ![alt text][front-pid]
 ![alt text][back-pid]
 
 Final prototype used:
+
+
 ![alt text][final-pid]
 
 
