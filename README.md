@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The code for this repository was used to rotate small motors that were used in a Bat-Bot. Goal was to rotate the tendon actuations to a certain angle in order to move the bots feet or its ears to mimic an actual bat. There were strings ttiedto the rotating motors that would allow the dynamic movements of the bat-bot.  
+The code for this repository was used to rotate small motors that were used in a Bat-Bot. Goal was to rotate the tendon actuations to a certain angle in order to move the bots feet or its ears to mimic an actual bat. There were strings tied to the rotating motors that would allow the dynamic movements of the bat-bot.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
